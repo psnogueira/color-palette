@@ -1,7 +1,6 @@
 # Color Palette
 
 ## Requirements:
-
 pip install torch
 pip install numpy
 pip install Pillow
