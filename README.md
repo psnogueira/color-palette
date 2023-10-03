@@ -1,6 +1,6 @@
 # Color Palette
 
-## Requirments:
+## Requirements:
     pip install torch
     pip install numpy
     pip install Pillow
