@@ -258,7 +258,7 @@ if __name__ == "__main__":
             
             if(DEBUG): print("Paleta Primavera")
             
-            primavera = cv2.imread("paleta_primavera.png")
+            primavera = cv2.imread("files/paleta_primavera.png")
             
             resized = cv2.resize(primavera, dim, interpolation = cv2.INTER_AREA)
             print("o tom de pele é frio")
