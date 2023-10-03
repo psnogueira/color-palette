@@ -277,7 +277,7 @@ if __name__ == "__main__":
             resized = cv2.resize(outono, dim, interpolation = cv2.INTER_AREA)
             cv2.imwrite(img_destination2 ,np.hstack([imagem_rosto,resized]))
             foto_paleta = cv2.imread(img_destination2)
-            cv2.imshow("Inverno", foto_paleta)
+            cv2.imshow("Outono", foto_paleta)
         
     cv2.waitKey(0)
     cv2.destroyAllWindows()
