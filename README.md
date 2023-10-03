@@ -7,6 +7,8 @@
     pip install opencv-python
     pip install torchvision
     pip install colorthief
+    pip install customtkinter
+    pip install python-tkdnd
 
 ## All necessary Files and Folders:
 ('run.py'; 'model.py'; 'resnet.py'; 'model' Folder; 'files' Folder)
