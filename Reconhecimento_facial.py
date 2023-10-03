@@ -217,7 +217,7 @@ if __name__ == "__main__":
     
     # Brightness value
     brightness = evaluate(input_path='img_source')
-    print(f"Brightness: {brightness}")
+    if(DEBUG): print(f"Brightness: {brightness}")
 
     if(((g - b) > 23)): 
         # Cool palette
