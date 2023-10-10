@@ -1,5 +1,7 @@
 # Color Palette
 
+##  How to run it:
+
 ## Requirements:
     pip install torch
     pip install numpy
@@ -16,3 +18,6 @@
 
 ##  pycache:
 '__pycache__' Folder will be created by executing the 'run.py'
+
+
+##  Special thanks:
