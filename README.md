@@ -19,7 +19,7 @@
 ## All necessary Files and Folders:
 'run.py'; 'model.py'; 'resnet.py'; 
 
-'model' Folder; 'files' Folder; 'files_temp' Folder
+'model' Folder; 'cascade' Folder; 'files' Folder; 'files_temp' Folder
 
 ##  pycache:
 '__pycache__' Folder will be created by executing the 'run.py'
