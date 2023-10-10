@@ -4,7 +4,7 @@
 1. Connect a camera to your computer.\
 *If you have more than 1 camera connected, change the camera index in "cv2.VideoCapture(0)" (line 148)
        
-3. Run run.py
+3. Run run.py\
    python run.py
 
 ## Requirements:
