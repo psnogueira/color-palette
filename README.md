@@ -12,6 +12,7 @@
 
 ## All necessary Files and Folders:
 'run.py'; 'model.py'; 'resnet.py'; 
+
 'model' Folder; 'files' Folder
 
 ##  pycache:
