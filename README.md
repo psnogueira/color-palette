@@ -7,7 +7,6 @@
     pip install opencv-python
     pip install torchvision
     pip install colorthief
-    pip install customtkinter
     pip install matplotlib
 
 ## All necessary Files and Folders:
