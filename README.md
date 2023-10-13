@@ -2,7 +2,7 @@
 __color-palette__ is python program that utilizes a camera to detect and analyze your color palette.\
 When the program detects your face, you __press 'c'__ to capture your face and start the parsing.
 
-It generates an image with your __face__, one of the 4 predefined __color Palettes__ and the __best beaty__ 
+It generates an image with your __face__, one of the 4 predefined __color Palettes__ and the __best beauty__ 
 __products__ to match your palette.
 
 ##  How to run it:
